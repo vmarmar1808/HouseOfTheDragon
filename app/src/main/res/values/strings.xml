@@ -1,0 +1,12 @@
+<resources>
+    <string name="explanation">El rey Viserys ha muerto... Debes elegir a su sucesor como rey de los Ándalos y
+        de los Primeros Hombres,Señor de los Siete Reinos y Protector del Reino. Para ello debes decidir entre apoyar
+        a...</string>
+    <string name="raenira_option">Raenira Targaryen</string>
+    <string name="aegon_option">Aegon Targaryen</string>
+    <string name="no_decision">Si no tomas una decisión no podrás salir de esta encrucijada.</string>
+    <string name="raenira_chosen">Raenira Targayren!, has decidido apoyar a una mujer... Lo pagarás con sangre.</string>
+    <string name="aegon_chosen">Has elegido a Aegon... Arderás por tu elección... Dracarys!</string>
+    <string name="both_chosen">Jugar a dos bandas es muy peligroso... Tu cabeza podrá rodar en cualquier momento.</string>
+    <string name="kneel_button">Hincar la rodilla</string>
+</resources>
